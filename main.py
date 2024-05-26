@@ -1,5 +1,6 @@
-def sum(a, b):
-    return a + b
-
-
-print(sum(1,2))
+def multiply(a, b):
+    return a * b 
+    
+a=1
+b=2
+print(multiply(a,b))
